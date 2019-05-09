@@ -2,7 +2,18 @@
 
 this is a shell scripting file
 i am using the file for stashing propose
+<<<<<<< Updated upstream
 thr again
+=======
+thr
+checking stashing concept
+
+
+again
+
+
+
+>>>>>>> Stashed changes
 
 
 
